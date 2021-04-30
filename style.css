@@ -1,0 +1,40 @@
+.text1 {
+    font-size: 18px;
+}
+.footer {
+    font-size: 20px;
+}
+.weight {
+    font-weight: bold;
+}
+.style {
+    font-style: italic;
+}
+.blue1 {
+    color: rgb(54, 36, 255);
+}
+.blue2 {
+    color: rgb(10, 23, 255);
+}
+.car {
+    border: dashed black 3px;
+
+}
+.cars {
+    text-align: center;
+}
+.main-picture {
+    text-align: center;
+}
+.header {
+    text-align: center;
+    background: rgb(165, 42, 42);
+}
+.h1 {
+    color: white;
+}
+.footer1 {
+    text-align: center;
+    background: rgb(0, 0, 0);
+    color: white;
+}
